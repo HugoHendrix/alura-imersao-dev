@@ -1,7 +1,7 @@
 
 # Imersão DEV_ Alura
 
-Nesta primeira aula da Imersão Dev, criamos um conversor de moeda. Você poderá converter itens em dólares em reais.
+Nesta primeira aula da Imersão Dev, criamos um conversor de moeda. Você poderá converte dólares em reais.
 
 
 ## Dia 1 - Conversão de moedas
